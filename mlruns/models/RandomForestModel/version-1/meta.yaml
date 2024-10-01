@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1727764800844
+current_stage: None
+description: null
+last_updated_timestamp: 1727764800844
+name: RandomForestModel
+run_id: 106b1c85dd3748aab574bf87b5e6243f
+run_link: null
+source: file:///home/princu/ML_OPS_MLFLOW/mlruns/737881899520215337/106b1c85dd3748aab574bf87b5e6243f/artifacts/random_forest_model
+status: READY
+status_message: null
+storage_location: file:///home/princu/ML_OPS_MLFLOW/mlruns/737881899520215337/106b1c85dd3748aab574bf87b5e6243f/artifacts/random_forest_model
+user_id: null
+version: 1

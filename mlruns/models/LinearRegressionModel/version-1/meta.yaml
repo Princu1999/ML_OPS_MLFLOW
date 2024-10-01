@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1727764791173
+current_stage: None
+description: null
+last_updated_timestamp: 1727764791173
+name: LinearRegressionModel
+run_id: 25ec2dff66fd4e879662bd875610e5e6
+run_link: null
+source: file:///home/princu/ML_OPS_MLFLOW/mlruns/737881899520215337/25ec2dff66fd4e879662bd875610e5e6/artifacts/linear_regression_model
+status: READY
+status_message: null
+storage_location: file:///home/princu/ML_OPS_MLFLOW/mlruns/737881899520215337/25ec2dff66fd4e879662bd875610e5e6/artifacts/linear_regression_model
+user_id: null
+version: 1

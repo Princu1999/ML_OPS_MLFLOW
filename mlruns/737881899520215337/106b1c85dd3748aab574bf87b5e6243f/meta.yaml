@@ -1,0 +1,15 @@
+artifact_uri: file:///home/princu/ML_OPS_MLFLOW/mlruns/737881899520215337/106b1c85dd3748aab574bf87b5e6243f/artifacts
+end_time: 1727764800849
+entry_point_name: ''
+experiment_id: '737881899520215337'
+lifecycle_stage: active
+run_id: 106b1c85dd3748aab574bf87b5e6243f
+run_name: luxuriant-perch-963
+run_uuid: 106b1c85dd3748aab574bf87b5e6243f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727764791180
+status: 3
+tags: []
+user_id: princu
